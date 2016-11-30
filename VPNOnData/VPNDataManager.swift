@@ -9,7 +9,7 @@
 import UIKit
 import CoreData
 
-let kAppGroupIdentifier = "group.VPNOn"
+let kAppGroupIdentifier = "group.VPNOnaasdf"
 
 private let VPNDataManagerInstance = VPNDataManager()
 
